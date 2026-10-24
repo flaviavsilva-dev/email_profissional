@@ -1,0 +1,44 @@
+# Sistema Operacional / OS Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+*.stackdump
+
+# Editores e IDEs
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/extensions.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# Arquivos Temporários, Logs e Caches
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+.cache/
+tmp/
+temp/
+
+# Ambientes Virtuais e Secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Antigravity / AI Agent Workspace artifacts
+.gemini/
+scratch/
